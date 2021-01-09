@@ -1,1 +1,3 @@
 new file 2
+newline
+newline2
